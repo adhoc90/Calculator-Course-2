@@ -57,4 +57,3 @@ public class CalculatorController {
         return String.format("%d %c %d = %d", num1, action, num2, result);
     }
 }
-
